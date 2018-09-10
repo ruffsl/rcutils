@@ -44,6 +44,7 @@ set(rcutils_sources
   src/split.c
   src/strdup.c
   src/string_array.c
+  src/string_literals.c
   src/string_map.c
   src/time.c
   ${time_impl_c}
